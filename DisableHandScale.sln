@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DisableHandScale", "DisableHandScale\DisableHandScale.vcxproj", "{CCB90E2D-E246-420D-86D8-6ABCF60646C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB90E2D-E246-420D-86D8-6ABCF60646C1}.Debug|x64.ActiveCfg = Debug|x64
+		{CCB90E2D-E246-420D-86D8-6ABCF60646C1}.Debug|x64.Build.0 = Debug|x64
+		{CCB90E2D-E246-420D-86D8-6ABCF60646C1}.Debug|x86.ActiveCfg = Debug|Win32
+		{CCB90E2D-E246-420D-86D8-6ABCF60646C1}.Debug|x86.Build.0 = Debug|Win32
+		{CCB90E2D-E246-420D-86D8-6ABCF60646C1}.Release|x64.ActiveCfg = Release|x64
+		{CCB90E2D-E246-420D-86D8-6ABCF60646C1}.Release|x64.Build.0 = Release|x64
+		{CCB90E2D-E246-420D-86D8-6ABCF60646C1}.Release|x86.ActiveCfg = Release|Win32
+		{CCB90E2D-E246-420D-86D8-6ABCF60646C1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0B9E7C2-11D7-480E-9F9D-3E1160D69CE3}
+	EndGlobalSection
+EndGlobal
